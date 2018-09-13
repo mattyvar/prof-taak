@@ -1,0 +1,11 @@
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\bin\Debug\Simon Says2.exe.config
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\bin\Debug\Simon Says2.exe
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\bin\Debug\Simon Says2.pdb
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.csprojResolveAssemblyReference.cache
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.Properties.Resources.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.csproj.GenerateResource.cache
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.csproj.CoreCompileInputs.cache
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.exe
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.pdb
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.GameForm.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.HighscoreForm.resources

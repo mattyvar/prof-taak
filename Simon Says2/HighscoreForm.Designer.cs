@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HighscoreForm));
             this.txbName = new System.Windows.Forms.TextBox();
             this.txbAge = new System.Windows.Forms.TextBox();
             this.lblName = new System.Windows.Forms.Label();
@@ -37,14 +38,14 @@
             // 
             // txbName
             // 
-            this.txbName.Location = new System.Drawing.Point(56, 12);
+            this.txbName.Location = new System.Drawing.Point(1072, 576);
             this.txbName.Name = "txbName";
             this.txbName.Size = new System.Drawing.Size(100, 20);
             this.txbName.TabIndex = 0;
             // 
             // txbAge
             // 
-            this.txbAge.Location = new System.Drawing.Point(56, 57);
+            this.txbAge.Location = new System.Drawing.Point(1072, 602);
             this.txbAge.Name = "txbAge";
             this.txbAge.Size = new System.Drawing.Size(100, 20);
             this.txbAge.TabIndex = 1;
@@ -52,7 +53,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(9, 15);
+            this.lblName.Location = new System.Drawing.Point(1020, 576);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(35, 13);
             this.lblName.TabIndex = 2;
@@ -61,7 +62,7 @@
             // lblAge
             // 
             this.lblAge.AutoSize = true;
-            this.lblAge.Location = new System.Drawing.Point(9, 60);
+            this.lblAge.Location = new System.Drawing.Point(1020, 609);
             this.lblAge.Name = "lblAge";
             this.lblAge.Size = new System.Drawing.Size(41, 13);
             this.lblAge.TabIndex = 3;
@@ -69,7 +70,7 @@
             // 
             // btnEnter
             // 
-            this.btnEnter.Location = new System.Drawing.Point(86, 106);
+            this.btnEnter.Location = new System.Drawing.Point(1063, 648);
             this.btnEnter.Name = "btnEnter";
             this.btnEnter.Size = new System.Drawing.Size(75, 23);
             this.btnEnter.TabIndex = 4;
@@ -81,14 +82,21 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(173, 139);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1653, 907);
             this.Controls.Add(this.btnEnter);
             this.Controls.Add(this.lblAge);
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.txbAge);
             this.Controls.Add(this.txbName);
+            this.DoubleBuffered = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "HighscoreForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HighscoreForm";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.HighscoreForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -9,3 +9,9 @@ D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.exe
 D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.pdb
 D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.GameForm.resources
 D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.HighscoreForm.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.StartForm.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.OptionsForm.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.SplashScreen.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon_Says2.EV3WIFI.resources
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\bin\Debug\EV3WifiLib.dll
+D:\School\PT\SimonSwipe\Simon Swipe\Simon Says2\obj\Debug\Simon Says2.csproj.CopyComplete

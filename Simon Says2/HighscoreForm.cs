@@ -15,12 +15,18 @@ namespace Simon_Says2
         public HighscoreForm()
         {
             InitializeComponent();
+            SetStyle(ControlStyles.UserPaint, true);
+            SetStyle(ControlStyles.AllPaintingInWmPaint, true);
+            SetStyle(ControlStyles.DoubleBuffer, true);
         }
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
-            Application.Restart();
-            
+            StartForm f1 = new StartForm();
+            this.Hide();
+            f1.ShowDialog();
+            this.Close();
+
         }
 
         private void HighscoreForm_Load(object sender, EventArgs e)
